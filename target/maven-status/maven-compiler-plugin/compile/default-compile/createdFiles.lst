@@ -1,0 +1,10 @@
+br\com\projeto\repository\UsuarioRepository.class
+br\com\projeto\model\Usuario.class
+br\com\projeto\service\UserService.class
+br\com\projeto\view\RegisterView.class
+br\com\projeto\controller\RegisterController.class
+br\com\projeto\util\SessaoUsuario.class
+br\com\projeto\view\ChatView.class
+br\com\projeto\controller\LoginController.class
+br\com\projeto\util\PasswordUtil.class
+br\com\projeto\config\MongoConfig.class
